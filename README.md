@@ -1,4 +1,5 @@
 # apnacollege-demo
+
 This is my first Git Repository.
 <br/>
-Author - Sandip Vadher
+Author - Sandip Vadher (Apna College)
